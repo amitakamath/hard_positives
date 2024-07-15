@@ -5,7 +5,7 @@ Code and datasets for "The Hard Positive Truth about Vision-Language Composition
 This code is based on the code for the ICLR 2023 paper by Yuksekgonul et al, **When and why vision-language models behave like bags-of-words, and what to do about it?** [[paper](https://openreview.net/pdf?id=KRLUvxh8uaX)][[code](https://github.com/mertyg/vision-language-models-are-bows)].
 
 <p align="center">
-<img src="figures/teaser.jpg" width="250">
+<img src="figures/teaser.jpg" width="500">
 </p>
 
 # Data:
@@ -16,7 +16,7 @@ This code is based on the code for the ICLR 2023 paper by Yuksekgonul et al, **W
 `hard_positives_ft/` contains the hard positive captions generated for _finetuning_.
 
 <p align="center">
-<img src="figures/dataset_figure.jpg" width="250">
+<img src="figures/dataset_figure.jpg" width="500">
 </p>
 
 # Code:
